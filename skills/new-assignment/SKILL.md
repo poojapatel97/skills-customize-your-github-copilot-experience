@@ -29,7 +29,6 @@ Use the bundled scripts — do NOT edit `config.json` manually.
 **Register each file as an attachment** (starter code, data files, etc.):
 
     node .github/skills/new-assignment/scripts/add-attachment.js <id> "<display-name>" <filename> <type>
-
 Common types: `python`, `csv`, `json`, `txt`, `html`
 
 ## Step 4: Verify
